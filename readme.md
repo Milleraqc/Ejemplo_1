@@ -18,6 +18,6 @@ Los colaboradores del proyecto son:
 
 ---
 
-# Bienvenidos al curso de programación 1
+# Bienvenidos al curso de **Programación II**
 
 

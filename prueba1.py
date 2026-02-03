@@ -1,5 +1,5 @@
 
-dec = int(input('Ingrese un numero entre 0 e infinito: '))
+dec = int(input('Ingrese un numero entre 0 e infinito y más allá: '))
 binario = ""
 
 while (dec > 0):
